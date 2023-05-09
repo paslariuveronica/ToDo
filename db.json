@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Vero",
+      "lastName": "Paslariu",
+      "email": "nsjkkabdhbd",
+      "password": "bff"
+    }
+  ],
+  "todos": [
+    {
+      "title": "buy milk",
+      "completed": true,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "title": "buy butter",
+      "completed": false,
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "title": "buy apples",
+      "completed": false,
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "title": "buy pasta",
+      "completed": false,
+      "userId": 1,
+      "id": 4
+    },
+    {
+      "title": "buy peanuts",
+      "completed": false,
+      "userId": 1,
+      "id": 5
+    }
+  ]
+}

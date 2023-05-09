@@ -1,0 +1,21 @@
+.btn {
+    border-radius: 3px;
+    border: 1px solid green;
+    background-color: #bada55;
+    color: green;
+    padding: 5px 10px;
+  }
+  
+  .btn-delete {
+    background-color: #c99;
+    color: #c00;
+    border-color: #c00;
+    margin-left: 10px;
+  }
+  ul {
+    list-style-type: none;
+  }
+  
+  li:has(input:checked) {
+    text-decoration: line-through;
+  }
